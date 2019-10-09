@@ -2,7 +2,7 @@
 
 ![Atlan-Logo](static/atlan.png) 
 
-Atlan is a data democratization company that helps teams collaborate frictionlessly on data projects.This is a internship task for a Backend Developer Internship where the task given is to build a solution for providing large scale concurrency in long running tasks. In this case A long running task is a csv file that consists of 1-2 million records. These records have to parsed and indexed into a Database concurrently. The solution provided should be able to terminate running tasks and restart the task.
+Atlan is a data democratization company that helps teams collaborate frictionlessly on data projects.This is a internship task for a Backend Developer Internship where the task given is to build a solution for providing large scale concurrency in long running tasks. In this case A long running task is a csv file that consists of 1-2 million records. These records have to parsed and indexed into a Database concurrently. The solution provided should be able to terminate running tasks and restart the task. Even used container orchestration for parallel computing
 
 ## Features
 
